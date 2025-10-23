@@ -3,7 +3,7 @@
 # Simple Firewall IP Blocker
 
 A small Python project that simulates a basic **firewall rule checker**.  
-It randomly generates IP addresses and checks them against predefined firewall rules to decide whether to **block** or **allow** each one.
+It randomly generates IP addresses  and checks them against predefined firewall rules to decide whether to **block** or **allow** each one.
 
 
 # Requirements
