@@ -11,13 +11,18 @@ It randomly generates IP addresses and checks them against predefined firewall r
 
 
 # Example output
+
 IP:192.168.1.2, Action:Allow, Random:7452
+
 IP:192.168.1.9, Action:block, Random:293
+
 IP:192.168.1.15, Action:Allow, Random:8201
+
 IP:192.168.1.19, Action:block, Random:4561
 
 
-#How It Works
+
+# How It Works
 
 The script defines a set of firewall rules (blocked IPs).
 
