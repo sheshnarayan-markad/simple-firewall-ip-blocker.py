@@ -36,3 +36,5 @@ IP:192.168.1.19, Action:block, Random:4561
 
 # Download
 
+https://github.com/sheshnarayan-markad/simple-firewall-ip-blocker.py.git
+
