@@ -24,12 +24,12 @@ IP:192.168.1.19, Action:block, Random:4561
 
 # How It Works
 
-The script defines a set of firewall rules (blocked IPs).
+-The script defines a set of firewall rules (blocked IPs).
 
-It then generates 12 random IP addresses.
+-It then generates 12 random IP addresses.
 
-For each IP:
+-For each IP:
 
-If it exists in the rules, action = block
+-If it exists in the rules, action = block
 
-Otherwise, action = Allow
+-Otherwise, action = Allow
