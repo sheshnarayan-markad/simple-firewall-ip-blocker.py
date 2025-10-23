@@ -33,3 +33,6 @@ IP:192.168.1.19, Action:block, Random:4561
 -If it exists in the rules, action = block
 
 -Otherwise, action = Allow
+
+# Download
+
