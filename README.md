@@ -17,7 +17,7 @@ IP:192.168.1.15, Action:Allow, Random:8201
 IP:192.168.1.19, Action:block, Random:4561
 
 
-#🔒 How It Works
+#How It Works
 The script defines a set of firewall rules (blocked IPs).
 It then generates 12 random IP addresses.
 For each IP:
